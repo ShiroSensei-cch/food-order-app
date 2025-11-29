@@ -46,14 +46,17 @@ A full-stack food ordering application with real-time order tracking built with 
    cd food-order-app
 
 2. **Setup Backend**
+   ```bash   
    cd backend
    npm install
 
 3. **Setup Frontend**
+   ```bash
    cd ../frontend
    npm install
 
 5. **Run the Application**
+   ```bash
    # Terminal 1 - Backend
    cd backend && npm run dev
  
